@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "365610980829",
+    "project_id": "diliseqvsi",
+    "storage_bucket": "diliseqvsi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365610980829:android:e55cde4521b1eed09d1234",
+        "android_client_info": {
+          "package_name": "com.enetapplications.empty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365610980829-4sc2nl2ri64eo32dm51udph7qrvtjfip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7gRXWQ8N17tumB0PhLI0UXxVFxz4P3xY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365610980829-4sc2nl2ri64eo32dm51udph7qrvtjfip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
